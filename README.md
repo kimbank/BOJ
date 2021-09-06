@@ -8,7 +8,7 @@
 
 ```
 
-# Python
+## Python
 
 ```python
 # [문제 번호 ex) 12345]
