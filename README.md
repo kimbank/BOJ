@@ -13,7 +13,7 @@ _ex)_ _`12345.cpp`, `01000.py`_
 
 ```C++
 // # [문제 번호]번   ex) 12345
-// # [문제 제목]번   ex) Hello World!
+// # [문제 제목]   ex) Hello World!
 
 ```
 
@@ -24,6 +24,6 @@ _ex)_ _`12345.cpp`, `01000.py`_
 
 ```python
 # [문제 번호]번    ex) 12345
-# [문제 제목]번    ex) Hello World!
+# [문제 제목]    ex) Hello World!
 
 ```
