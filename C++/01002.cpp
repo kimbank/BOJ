@@ -1,5 +1,8 @@
-// # 1002번
-// # 터렛
+// 1002
+// 터렛
+// https://www.acmicpc.net/problem/1002
+
+
 
 #include <iostream>
 using namespace std;
