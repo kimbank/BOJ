@@ -2,7 +2,11 @@
 <br />
 <div align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank%2FBOJ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false"/></div>
 <br />
+
 <p align="center">
+  <a href="https://solved.ac/profile/banlxx">
+    <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=banlxx" style="float: center">
+  </a>
   <a href="https://www.acmicpc.net/user/banlxx">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx" style="float: center">
   </a>
