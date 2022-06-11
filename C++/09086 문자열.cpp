@@ -18,6 +18,6 @@ int main() {
 
         cout << str[0] << str[str.size() - 1] << "\n";
     }
-    
+
     return 0;
 }
