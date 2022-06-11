@@ -18,6 +18,6 @@ int main() {
         out = (str[i] >= 97) ? str[i] - 32 : str[i] + 32;
         cout << out;
     }
-    
+
     return 0;
 }
