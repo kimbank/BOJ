@@ -1,1 +1,1 @@
-eval(f"print({input().replace(' ', '+')})") 
+eval(f"print({input().replace(' ', '+')})")
