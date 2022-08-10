@@ -26,6 +26,11 @@
   <em><code>01000 A+B.cpp</code></em>
 </div>
 
+<h3 align="center">Go</h3>
+<div align="center">
+  <em><code>01000 A+B.go</code></em>
+</div>
+
 <h3 align="center">Java</h3>
 <div align="center">
   <em><code>01000 A+B.java</code></em>
